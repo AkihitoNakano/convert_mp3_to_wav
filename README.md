@@ -1,1 +1,3 @@
 # convert_mp3_to_wav
+pydubを使用してmp3ファイルをwavファイルに変換するプログラム。
+ffmpegとffproveが必要（スクリプトと同じディレクトリに入れる必要がある）
